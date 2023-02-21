@@ -1,1 +1,0 @@
-bai 1: tìm n số nguyên tố
