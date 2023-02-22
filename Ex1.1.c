@@ -19,5 +19,8 @@ int main()
     printf("%f",pi(0, n, 8/3));
     return 0;
 }
+//de sau
+//cung la recursion
+//pi= 4/(1+(1/3+(4/5+(9/7+16/....))))
 
 
